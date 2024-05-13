@@ -15,3 +15,5 @@ To browse your project visit http://liteserver.tripod-digital.co.nz/ and log in 
 You can sponsor this work using GitHub sponsors
 https://github.com/sponsors/ThorstenBux
 
+### Author
+Pedro Nunes.
